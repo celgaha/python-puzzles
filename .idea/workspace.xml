@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a775b83a-e2ff-4e81-916d-b36a9eea0c78" name="Changes" comment="Whichisgreater and set up">
-      <change afterPath="$PROJECT_DIR$/kattis/buildingpyramids.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kattis/judgingmoose.py" afterDir="false" />
+    <list default="true" id="a775b83a-e2ff-4e81-916d-b36a9eea0c78" name="Changes" comment="Moose and pyramids">
+      <change afterPath="$PROJECT_DIR$/kattis/beehives.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.beehives.executor": "Run",
     "Python.buildingpyramids.executor": "Run",
     "Python.judgingmoose.executor": "Run",
     "Python.main.executor": "Debug",
@@ -121,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723308069775</updated>
-      <workItem from="1723308074845" duration="4456000" />
+      <workItem from="1723308074845" duration="7723000" />
     </task>
     <task id="LOCAL-00001" summary="Whichisgreater and set up">
       <option name="closed" value="true" />
@@ -131,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723309693264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Moose and pyramids">
+      <option name="closed" value="true" />
+      <created>1723312560012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723312560012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +159,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Whichisgreater and set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Whichisgreater and set up" />
+    <MESSAGE value="Moose and pyramids" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moose and pyramids" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -167,6 +176,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_puzzles$whichisgreater.coverage" NAME="whichisgreater Coverage Results" MODIFIED="1723308914955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kattis" />
     <SUITE FILE_PATH="coverage/python_puzzles$buildingpyramids.coverage" NAME="buildingpyramids Coverage Results" MODIFIED="1723311816342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kattis" />
+    <SUITE FILE_PATH="coverage/python_puzzles$beehives.coverage" NAME="beehives Coverage Results" MODIFIED="1723315798105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kattis" />
     <SUITE FILE_PATH="coverage/python_puzzles$judgingmoose.coverage" NAME="judgingmoose Coverage Results" MODIFIED="1723310210142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kattis" />
     <SUITE FILE_PATH="coverage/python_puzzles$main.coverage" NAME="main Coverage Results" MODIFIED="1723308183992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
